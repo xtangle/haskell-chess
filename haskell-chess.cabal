@@ -14,6 +14,7 @@ bug-reports:    https://github.com/xtangle/haskell-chess/issues
 author:         Jacky Xu
 maintainer:     jackyxu07@gmail.com
 copyright:      2019 Jacky Xu
+category:       Game
 license:        GPL-3
 license-file:   LICENSE
 build-type:     Simple
